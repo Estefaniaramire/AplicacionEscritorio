@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UXDiseñoEscritorio", "UXDiseñoEscritorio\UXDiseñoEscritorio.csproj", "{1D9F2A42-43C1-4B9E-A892-A4F359F4B28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D9F2A42-43C1-4B9E-A892-A4F359F4B28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9F2A42-43C1-4B9E-A892-A4F359F4B28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9F2A42-43C1-4B9E-A892-A4F359F4B28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9F2A42-43C1-4B9E-A892-A4F359F4B28C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F6A3002-A4F6-44C5-A8E6-0C0C3905B81B}
+	EndGlobalSection
+EndGlobal
